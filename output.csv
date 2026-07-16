@@ -1,0 +1,3 @@
+consumer_id,name,credit_score,risk_band,delinquent_accounts
+EXP-88194,Alice Smith,742,Low,0
+EXP-33091,Bob Jones,612,Medium,2

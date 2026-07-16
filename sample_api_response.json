@@ -1,0 +1,22 @@
+{
+  "total_records": 100,
+  "page": 1,
+  "total_pages": 50,
+  "has_next": true,
+  "results": [
+    {
+      "consumer_id": "EXP-88194",
+      "name": "Alice Smith",
+      "credit_score": 742,
+      "risk_band": "Low",
+      "delinquent_accounts": 0
+    },
+    {
+      "consumer_id": "EXP-33091",
+      "name": "Bob Jones",
+      "credit_score": 612,
+      "risk_band": "Medium",
+      "delinquent_accounts": 2
+    }
+  ]
+}
