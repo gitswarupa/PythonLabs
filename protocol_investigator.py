@@ -6,7 +6,7 @@ import requests
 # --- Configuration (separated from request logic) ---
 REQUEST_TIMEOUT = 10
 
-# Open-Meteo: free public weather API (no API key required)
+# Open-Meteo: free public weather API (no API key required)..
 # Docs: https://open-meteo.com/en/docs
 WEATHER_URL = "https://api.open-meteo.com/v1/forecast"
 GEOCODING_URL = "https://geocoding-api.open-meteo.com/v1/search"
