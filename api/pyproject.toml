@@ -1,0 +1,17 @@
+[project]
+name = "fake-api"
+version = "1.0.0"
+description = "Enterprise API simulator for Python Automation students"
+requires-python = ">=3.11"
+
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "."
+]
